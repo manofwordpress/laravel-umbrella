@@ -3,5 +3,4 @@ laravel new package for SEO
 
 
 
-Alt-H2
-------
+**asterisks and _underscores_**
