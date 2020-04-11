@@ -1,0 +1,2 @@
+adding some instructions while setup this package
+-------------------------------------------------------------------
